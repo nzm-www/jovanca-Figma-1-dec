@@ -1,0 +1,28 @@
+.bodyd {
+  background-image: url(../public/bgfon.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+}
+
+.jova {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 30px;
+  margin-left: -130px;
+  font-weight: 900;
+  font-size: 20px;
+  color: #ffffffa3;
+  margin-top: 270px;
+  position: absolute;
+  transform: rotate(-90deg);
+}
+
+.fon{
+  background-image: url(../public/fonnn.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 2061px;
+}
+.zbl{
+  letter-spacing: 4px;
+}
